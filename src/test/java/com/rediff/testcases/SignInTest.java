@@ -45,6 +45,7 @@ public class SignInTest extends Base {
 	{
 		inbox = signin.onSuccessfulLogin();
 		log.info("Login successful");
+System.out.println("test git");   
 		
 	}
 	
