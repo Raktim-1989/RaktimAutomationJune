@@ -1,0 +1,11 @@
+com\rediff\pageobject\SignUpPage.class
+com\rediff\base\Base.class
+com\rediff\testcases\HomePageTest.class
+com\rediff\testutil\Listeners.class
+com\rediff\pageobject\HomePage.class
+com\rediff\testcases\SignInTest.class
+com\rediff\testutil\TestUtil.class
+com\rediff\pageobject\InboxPage.class
+com\rediff\testcases\InboxPageTest.class
+com\rediff\pageobject\SignInPage.class
+com\rediff\testcases\SignUpTest.class

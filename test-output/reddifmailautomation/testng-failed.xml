@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [reddifmailautomation]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="framework(failed)">
+    <classes>
+      <class name="com.rediff.testcases.SignInTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="getTitleSigninTest"/>
+          <include name="onSuccessfulLoginTest"/>
+        </methods>
+      </class> <!-- com.rediff.testcases.SignInTest -->
+    </classes>
+  </test> <!-- framework(failed) -->
+</suite> <!-- Failed suite [reddifmailautomation] -->

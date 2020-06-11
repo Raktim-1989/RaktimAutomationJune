@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 123.085 s <<< FAILURE! - in TestSuite
+getTitleHomeTest(com.rediff.testcases.HomePageTest)  Time elapsed: 2.587 s  <<< FAILURE!
+java.lang.AssertionError: expected [Rediff.com: News | Rediffmail1 | Stock Quotes | Shopping] but found [Rediff.com: News | Rediffmail | Stock Quotes | Shopping]
+	at com.rediff.testcases.HomePageTest.getTitleHomeTest(HomePageTest.java:40)
+

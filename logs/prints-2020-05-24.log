@@ -1,0 +1,23 @@
+23:16:38.963 [main] INFO  com.rediff.base.Base - Browser window is maximized
+23:16:39.213 [main] INFO  com.rediff.base.Base - Implict wait is set to 10 seconds globally
+23:16:39.213 [main] DEBUG com.rediff.base.Base - Initialization method is invoked for homepage test
+23:16:39.333 [main] INFO  com.rediff.base.Base - SignIn link is clicked from reddif home page screen
+23:16:39.334 [main] INFO  com.rediff.base.Base - Test Case passed onClickSignInTest
+23:16:40.006 [main] INFO  com.rediff.base.Base - HomePageTest is completed
+23:16:43.091 [main] INFO  com.rediff.base.Base - ChromeDriver has been initialized
+23:16:43.091 [main] DEBUG com.rediff.base.Base - RddifMail URL is set into the address bar
+23:16:46.008 [main] INFO  com.rediff.base.Base - ReddifMail website is launced successfully
+23:16:48.607 [main] INFO  com.rediff.base.Base - Browser window is maximized
+23:16:48.682 [main] INFO  com.rediff.base.Base - Implict wait is set to 10 seconds globally
+23:16:48.682 [main] DEBUG com.rediff.base.Base - initialization method is invoked for SignIn page test
+23:16:48.771 [main] INFO  com.rediff.base.Base - SignIn link from homepage is clicked to initiate the login process
+23:16:49.603 [main] DEBUG com.rediff.base.Base - User enetred a valid username 
+23:16:49.711 [main] DEBUG com.rediff.base.Base - User entered a valid password
+23:16:53.458 [main] DEBUG com.rediff.base.Base - Login Button is clicked
+23:16:53.460 [main] INFO  com.rediff.base.Base - Login successful
+23:16:53.460 [main] INFO  com.rediff.base.Base - Test Case passed onSuccessfulLoginTest
+23:16:54.116 [main] INFO  com.rediff.base.Base - SignInTest is completed
+23:16:57.194 [main] INFO  com.rediff.base.Base - ChromeDriver has been initialized
+23:16:57.194 [main] DEBUG com.rediff.base.Base - RddifMail URL is set into the address bar
+23:17:00.450 [main] INFO  com.rediff.base.Base - ReddifMail website is launced successfully
+23:17:02.970 [main] INFO  com.rediff.base.Base - Browser window is maximized

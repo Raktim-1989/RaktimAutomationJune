@@ -1,0 +1,14 @@
+14:50:39.658 [main] DEBUG com.rediff.base.Base - initialization method is invoked for SignIn page test
+14:50:39.788 [main] INFO  com.rediff.base.Base - SignIn link from homepage is clicked to initiate the login process
+14:50:41.308 [main] INFO  com.rediff.base.Base - SignIn page title is fetched from SignIn page
+14:50:41.309 [main] INFO  com.rediff.base.Base - Test Case passed getTitleSigninTest
+14:50:41.969 [main] INFO  com.rediff.base.Base - SignInTest is completed
+14:50:45.210 [main] INFO  com.rediff.base.Base - ChromeDriver has been initialized
+14:50:45.211 [main] DEBUG com.rediff.base.Base - RddifMail URL is set into the address bar
+14:50:50.459 [main] INFO  com.rediff.base.Base - ReddifMail website is launced successfully
+14:51:00.229 [main] INFO  com.rediff.base.Base - Browser window is maximized
+14:51:00.292 [main] INFO  com.rediff.base.Base - Implict wait is set to 10 seconds globally
+14:51:00.293 [main] DEBUG com.rediff.base.Base - Initialization method is invoked for homepage test
+14:51:02.787 [main] INFO  com.rediff.base.Base - SignUp link is clicked from home page screen
+14:51:02.788 [main] INFO  com.rediff.base.Base - Test Case passed onClickSignupTest
+14:51:03.453 [main] INFO  com.rediff.base.Base - HomePageTest is completed
